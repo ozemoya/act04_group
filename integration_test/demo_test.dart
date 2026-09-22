@@ -1,5 +1,3 @@
-import 'dart:async';
-
 import 'package:act04_group/main.dart' as app;
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
