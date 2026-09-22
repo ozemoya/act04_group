@@ -44,4 +44,4 @@ The original `// 🐛 BUG #` markers remain next to the fixes in `lib/main.dart`
 
 ## Submission Evidence
 
-The changed-state app screenshot is included. The team still needs to attach its authentic Round 1 quiz screenshot, Round 2 bug-proof screenshot, and a 15–30-second app demonstration (`CS-Coders-Demo.mp4` or GIF) as required by the assignment. The live two-minute defense must be delivered by the team. Code and tests are included in this repository.
+The [changed-state app screenshot](evidence/CS-Coders-Round3-ChangedState.png) and [26-second Android demo](evidence/CS-Coders-Demo.mp4) are included. The team still needs to attach its authentic Round 1 quiz screenshot and Round 2 bug-proof screenshot. The live two-minute defense must be delivered by the team. Code and tests are included in this repository.
