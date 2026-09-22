@@ -31,7 +31,18 @@ The private state fields live in the widgets that use or coordinate them. `_Vira
 
 ## Round 1 Findings
 
-The timed quiz explicitly disallows AI assistance. The team must complete the six scenarios during the instructor's Round 1, record its own score and findings here, and attach the actual `CS-Coders-Round1-Quiz.png` screenshot. **Team findings and score: pending the team's quiz.**
+The team reported a **6 / 6** score in the timed State Identification Blitz. Their answers were:
+
+| Scenario | Team answer | Result |
+| --- | --- | --- |
+| 1. PriceTag | Stateless | Correct |
+| 2. LikeToggle | Stateful | Correct |
+| 3. MenuActionTile | Stateless | Correct |
+| 4. SearchField | Stateful | Correct |
+| 5. StatBadge | Stateless | Correct |
+| 6. PulsingDot | Stateful | Correct |
+
+These are the team's supplied findings, not AI-generated quiz answers. The actual `CS-Coders-Round1-Quiz.png` score screenshot still needs to be attached.
 
 ## Round 2 Bug Fixes
 
