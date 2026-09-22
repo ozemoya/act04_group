@@ -42,7 +42,7 @@ The team reported a **6 / 6** score in the timed State Identification Blitz. The
 | 5. StatBadge | Stateless | Correct |
 | 6. PulsingDot | Stateful | Correct |
 
-These are the team's supplied findings, not AI-generated quiz answers. The actual `CS-Coders-Round1-Quiz.png` score screenshot still needs to be attached.
+These are the team's supplied findings, not AI-generated quiz answers. The team's [6/6 score screenshot](evidence/CS-Coders-Round1-Quiz.png) is included; it shows the score but not the report text or team name, which are recorded here.
 
 ## Round 2 Bug Fixes
 
@@ -51,8 +51,8 @@ These are the team's supplied findings, not AI-generated quiz answers. The actua
 3. **Bug #3 — backward shadows:** Pressed pads use shallow shadows with offsets of 2; released pads use deeper shadows with offsets of 8.
 4. **Bug #4 — premature action:** `onTapDown` changes only the visual state, `onTapUp` triggers the action, and `onTapCancel` restores the pad without triggering it.
 
-The original `// 🐛 BUG #` markers remain next to the fixes in `lib/main.dart` for review. The team must capture `CS-Coders-Round2-BugProof.png` from a running app with corrected code and team name visible in the editor.
+The original `// 🐛 BUG #` markers remain next to the fixes in `lib/main.dart` for review. The [Round 2 proof composite](evidence/CS-Coders-Round2-BugProof.png) combines an actual Android app capture, exact source lines, and the team roster. It is labeled as a composite because it is not a literal VS Code screenshot; an editor screenshot is still preferable if the instructor requires one.
 
 ## Submission Evidence
 
-The [changed-state app screenshot](evidence/CS-Coders-Round3-ChangedState.png) and [26-second Android demo](evidence/CS-Coders-Demo.mp4) are included. The team still needs to attach its authentic Round 1 quiz screenshot and Round 2 bug-proof screenshot. The live two-minute defense must be delivered by the team. Code and tests are included in this repository.
+The [Round 1 score screenshot](evidence/CS-Coders-Round1-Quiz.png), [Round 2 proof composite](evidence/CS-Coders-Round2-BugProof.png), [changed-state app screenshot](evidence/CS-Coders-Round3-ChangedState.png), and [26-second Android demo](evidence/CS-Coders-Demo.mp4) are included. The live two-minute defense must be delivered by the team. Code and tests are included in this repository.
