@@ -51,8 +51,8 @@ These are the team's supplied findings, not AI-generated quiz answers. The team'
 3. **Bug #3 — backward shadows:** Pressed pads use shallow shadows with offsets of 2; released pads use deeper shadows with offsets of 8.
 4. **Bug #4 — premature action:** `onTapDown` changes only the visual state, `onTapUp` triggers the action, and `onTapCancel` restores the pad without triggering it.
 
-The original `// 🐛 BUG #` markers remain next to the fixes in `lib/main.dart` for review. Two genuine VS Code screenshots show the running app beside the editor: the [team header and 20/20 app state](evidence/CS-Coders-Round2-VSCode-Team-And-App.jpg), and the [fixed BUG comments beside the app](evidence/CS-Coders-Round2-VSCode-BugFix.jpg).
+The original `// 🐛 BUG #` markers remain next to the fixes in `lib/main.dart` for review. The [Bug #1 VS Code screenshot](evidence/CS-Coders-Round2-Bug1-VSCode.jpg) shows the local pressed-state fix, Myles Miller and Zachari Taylor, and the running app in one frame.
 
 ## Submission Evidence
 
-The [Round 1 score screenshot](evidence/CS-Coders-Round1-Quiz.png), two [Round 2 VS Code screenshots](evidence/CS-Coders-Round2-VSCode-Team-And-App.jpg) ([bug-fix view](evidence/CS-Coders-Round2-VSCode-BugFix.jpg)), [changed-state app screenshot](evidence/CS-Coders-Round3-ChangedState.png), and [26-second Android demo](evidence/CS-Coders-Demo.mp4) are included. The live two-minute defense must be delivered by the team. Code and tests are included in this repository.
+The [Round 1 score screenshot](evidence/CS-Coders-Round1-Quiz.png), [Round 2 Bug #1 VS Code screenshot](evidence/CS-Coders-Round2-Bug1-VSCode.jpg), [changed-state app screenshot](evidence/CS-Coders-Round3-ChangedState.png), and [26-second Android demo](evidence/CS-Coders-Demo.mp4) are included. The live two-minute defense must be delivered by the team. Code and tests are included in this repository.

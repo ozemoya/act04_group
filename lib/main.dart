@@ -323,6 +323,7 @@ class TactileActionButton extends StatefulWidget {
 }
 
 class _TactileActionButtonState extends State<TactileActionButton> {
+  // CS Coders: Myles Miller and Zachari Taylor
   // 🐛 BUG #1 (fixed): each button owns its own pressed state.
   bool isPressed = false;
   @override
