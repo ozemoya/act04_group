@@ -19,7 +19,7 @@ We chose **Viral Content Studio**. Its four tactile actions model a post's likes
 
 **Condition:** `isTrending` becomes true when the weighted `engagementScore` reaches 20 or more.
 
-**Changed-state screenshot:** Add `CS-Coders-Round3-ChangedState.png` after running the app and interacting with it. A code test confirms that six shares plus one save reaches 20 points and shows the trending banner; a live screenshot is still needed for the submission.
+**Changed-state screenshot:** [CS-Coders-Round3-ChangedState.png](evidence/CS-Coders-Round3-ChangedState.png) was captured from the running Android app after six shares and one save. The 20-point trending banner and updated counts are visible.
 
 ## State Defense
 
@@ -44,4 +44,4 @@ The original `// 🐛 BUG #` markers remain next to the fixes in `lib/main.dart`
 
 ## Submission Evidence
 
-The team still needs to attach its authentic Round 1 quiz screenshot, Round 2 bug-proof screenshot, changed-state app screenshot, and a 15–30-second app demonstration (`CS-Coders-Demo.mp4` or GIF) as required by the assignment. The live two-minute defense must be delivered by the team. Code and tests are included in this repository.
+The changed-state app screenshot is included. The team still needs to attach its authentic Round 1 quiz screenshot, Round 2 bug-proof screenshot, and a 15–30-second app demonstration (`CS-Coders-Demo.mp4` or GIF) as required by the assignment. The live two-minute defense must be delivered by the team. Code and tests are included in this repository.
